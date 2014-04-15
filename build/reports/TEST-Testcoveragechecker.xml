@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Test coverage checker" errors="0" tests="1" failures="1" time="5.584" timestamp="2014-04-15T12:15:20">
+  <testcase classname="Test coverage checker" name="checks the coverage results against the thresholds" time="5.583"><failure type="expect" message="timeout: timed out after 5000 msec waiting for spec to complete">timeout: timed out after 5000 msec waiting for spec to complete</failure></testcase>
+</testsuite>
+</testsuites>
